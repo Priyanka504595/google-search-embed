@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Google Search Embed</title>
+  <script async src="https://cse.google.com/cse.js?cx=4796b65fb506b4796"></script>
+</head>
+<body>
+  <div class="gcse-search"></div>
+</body>
+</html>
